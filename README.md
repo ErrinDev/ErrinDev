@@ -1,8 +1,9 @@
 ## Boo
 
 - https://www.errin.dev
-- @errindev on discord
+- errindev on discord
 
+---
 Currently working on:
   https://pink-sheep.net
 
