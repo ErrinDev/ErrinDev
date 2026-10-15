@@ -1,4 +1,10 @@
-## Hi there 👋
+## Boo
+
+- https://www.errin.dev
+- @errindev on discord
+
+Currently working on:
+  https://pink-sheep.net
 
 <!--
 **ErrinDev/ErrinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
